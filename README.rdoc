@@ -1,0 +1,18 @@
+== goalgraph
+
+
+=== Description
+
+goalgraph is a social goal-setting utility that empowers people to work together to be healthy, wealthy, and loving.
+
+
+=== Technology
+
+  * Facebook JavaScript Client Library, Graph API, & Data Store
+  * jQuery
+  * Google AppEngine with Python
+
+
+=== Links
+
+Home page: http://apps.facebook.com/goalgraph/
